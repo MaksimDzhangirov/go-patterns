@@ -1,2 +1,2 @@
-# go-concurrency-patterns
-Concurrency Patterns in Golang
+# go-patterns
+Patterns in Golang
