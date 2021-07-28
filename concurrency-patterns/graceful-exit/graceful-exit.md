@@ -1,7 +1,7 @@
 # Graceful Goroutine Exit
 
 ## Gracefully terminating a 'goroutine'
-Signal a goroutine to cleanup and exit. Using input channel, quit channel to send signal(s) to the goroutine.
+Signal a goroutine to clean up and exit. We are using input channel `quit` to send signal(s) to the goroutine.
 
 ``` go
 package main

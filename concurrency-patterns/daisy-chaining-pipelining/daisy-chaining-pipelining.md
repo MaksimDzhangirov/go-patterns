@@ -1,6 +1,6 @@
-# Daisy-Chaining or Pipilining
+# Daisy-Chaining or Pipelining
 
-## What is 'Daisy-Chaining' or 'Pipilining'?
+## What is 'Daisy-Chaining' or 'Pipelining'?
 
 A method of linking goroutines that consumes and produces. Can be thought of as an assembly line.
 
