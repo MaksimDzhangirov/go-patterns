@@ -5,7 +5,7 @@
   * [Абстрактная фабрика (Abstract Factory)](patterns/creational/abstract-factory/af.md)
   * [Строитель (Builder)](patterns/creational/builder/builder.md)
   * [Фабрика (Factory)](patterns/creational/factory/factory.md)
-  * Объектный пул (Object Pool)
+  * [Объектный пул (Object Pool)](patterns/creational/object-pool/op.md)
   * Прототип (Prototype)
   * Одиночка (Singleton)
 * Структурные шаблоны проектирования (Structural)
