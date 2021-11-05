@@ -3,8 +3,8 @@
 
 * Порождающие шаблоны проектирования (Creational)
   * [Абстрактная фабрика (Abstract Factory)](patterns/creational/abstract-factory/af.md)
-  * Строитель (Builder)
-  * Фабрика (Factory)
+  * [Строитель (Builder)](patterns/creational/builder/builder.md)
+  * [Фабрика (Factory)](patterns/creational/factory/factory.md)
   * Объектный пул (Object Pool)
   * Прототип (Prototype)
   * Одиночка (Singleton)
@@ -25,6 +25,7 @@
   * Хранитель (Memento)
   * Объект Null (Null Object)
   * Наблюдатель (Observer)
+  * [Спецификация (Specification)](patterns/behavioral/specification/specification.md)
   * Состояние (State)
   * Стратегия (Strategy)
   * Шаблонный метод (Template Method)
