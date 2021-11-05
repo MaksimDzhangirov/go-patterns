@@ -36,11 +36,11 @@
 
 |  Актёр на UML диаграмме  | Файл из примера |
 |:--------:|:-------:|
-|  ProductFactory  |   gunFactory.go  |
-|  iProduct   |  gun.go  |
-|  Product   |   gun.go  |
-|  Concrete Product 1   |   ak47.go  |
-| Concrete Product 2 | maverick.go |
+|  ProductFactory  |   gun/factory.go  |
+|  iProduct   |  interfaces/gun.go |
+|  Product   |   gun/common.go  |
+|  Concrete Product 1   |   gun/ak47.go  |
+| Concrete Product 2 | gun/maverick.go |
 | Client   | main.go |
 
 ## Пример
