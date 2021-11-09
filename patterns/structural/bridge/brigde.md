@@ -169,6 +169,8 @@ func main() {
 }
 ```
 
+Результат в терминале:
+
 ```shell
 go run main.go
 Print request for mac
