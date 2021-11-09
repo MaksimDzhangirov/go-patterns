@@ -7,6 +7,17 @@
 
 ![UML](images/image1.jpg)
 
+В таблице представлено соответствие между актёрами на UML диаграмме и файлами
+из примера.
+
+|  Актёр на UML диаграмме  | Файл из примера |
+|:--------:|:-------:|
+|  Director  |   director.go  |
+|  Builder Interface  |  interfaces/builder.go |
+|  Concrete Builder 1  |   normal/builder.go  |
+| Concrete Builder 2 | igloo/builder.go |
+| Product   | common/house.go |
+
 ## Когда стоит использовать
 
 * Используйте шаблон "Строитель", когда создаваемый объект очень большой и 
